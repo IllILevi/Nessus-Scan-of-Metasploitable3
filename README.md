@@ -23,11 +23,14 @@ The top five vulnerabilities are as follows:
 
 ### Solution: Upgrade to a version of Canonical Ubuntu Linux that is currently supported.  
 
+
+
 ### Vulnerability: 92626 - Drupal Coder Module Deserialization RCE  
 
 ### Synopsis: A PHP application running on the remote web server is affected by a remote code execution vulnerability.    
 
 ### Solution: Upgrade the Coder module to version 7.x-1.3 / 7.x-2.6 or later. Alternatively, remove the entire Coder module directory from any publicly accessible website.    
+
 
 
 ### Vulnerability: 81510 - PHP 5.4.x < 5.4.38 Multiple Vulnerabilities (GHOST)  
@@ -36,11 +39,14 @@ The top five vulnerabilities are as follows:
 
 ### Solution: Upgrade to PHP version 5.4.38 or later.  
 
+
+
 ### Vulnerability: 58987 - PHP Unsupported Version Detection  
 
 ### Synopsis: The remote host contains an unsupported version of a web application scripting language.  
 
 ### Solution: Upgrade to a version of PHP that is currently supported.  
+
 
 
 ### Vulnerability: 84215 - ProFTPD mod_copy Information Disclosure  
