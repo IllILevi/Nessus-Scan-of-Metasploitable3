@@ -17,43 +17,43 @@ From the Nessus scan, there were many detected vulnerabilities, including 12 cri
 
 The top five vulnerabilities are as follows:
 
-### Vulnerability: 201408 - Canonical Ubuntu Linux SEoL (14.04.x)  
+**Vulnerability:** 201408 - Canonical Ubuntu Linux SEoL (14.04.x)  
 
-### Synopsis: An unsupported version of Canonical Ubuntu Linux is installed on the remote host.  
+**Synopsis:** An unsupported version of Canonical Ubuntu Linux is installed on the remote host.  
 
-### Solution: Upgrade to a version of Canonical Ubuntu Linux that is currently supported.  
-
-&ensp;
-
-### Vulnerability: 92626 - Drupal Coder Module Deserialization RCE  
-
-### Synopsis: A PHP application running on the remote web server is affected by a remote code execution vulnerability.    
-
-### Solution: Upgrade the Coder module to version 7.x-1.3 / 7.x-2.6 or later. Alternatively, remove the entire Coder module directory from any publicly accessible website.    
+**Solution:** Upgrade to a version of Canonical Ubuntu Linux that is currently supported.  
 
 &ensp;
 
-### Vulnerability: 81510 - PHP 5.4.x < 5.4.38 Multiple Vulnerabilities (GHOST)  
+**Vulnerability:** 92626 - Drupal Coder Module Deserialization RCE  
 
-### Synopsis: The remote web server uses a version of PHP that is affected by multiple vulnerabilities.  
+**Synopsis:** A PHP application running on the remote web server is affected by a remote code execution vulnerability.    
 
-### Solution: Upgrade to PHP version 5.4.38 or later.  
-
-&ensp;
-
-### Vulnerability: 58987 - PHP Unsupported Version Detection  
-
-### Synopsis: The remote host contains an unsupported version of a web application scripting language.  
-
-### Solution: Upgrade to a version of PHP that is currently supported.  
+**Solution:** Upgrade the Coder module to version 7.x-1.3 / 7.x-2.6 or later. Alternatively, remove the entire Coder module directory from any publicly accessible website.    
 
 &ensp;
 
-### Vulnerability: 84215 - ProFTPD mod_copy Information Disclosure  
+**Vulnerability:** 81510 - PHP 5.4.x < 5.4.38 Multiple Vulnerabilities (GHOST)  
 
-### Synopsis: The remote host is running a ProFTPD module that is affected by an information disclosure vulnerability.  
+**Synopsis:** The remote web server uses a version of PHP that is affected by multiple vulnerabilities.  
 
-### Solution: Upgrade to ProFTPD 1.3.5a / 1.3.6rc1 or later.  
+**Solution:** Upgrade to PHP version 5.4.38 or later.  
+
+&ensp;
+
+**Vulnerability:** 58987 - PHP Unsupported Version Detection  
+
+**Synopsis:** The remote host contains an unsupported version of a web application scripting language.  
+
+**Solution:** Upgrade to a version of PHP that is currently supported.  
+
+&ensp;
+
+**Vulnerability:** 84215 - ProFTPD mod_copy Information Disclosure  
+
+**Synopsis:** The remote host is running a ProFTPD module that is affected by an information disclosure vulnerability.  
+
+**Solution:** Upgrade to ProFTPD 1.3.5a / 1.3.6rc1 or later.  
 
 
 
