@@ -23,7 +23,7 @@ The top five vulnerabilities are as follows:
 
 ### Solution: Upgrade to a version of Canonical Ubuntu Linux that is currently supported.  
 
-
+&ensp;
 
 ### Vulnerability: 92626 - Drupal Coder Module Deserialization RCE  
 
@@ -39,7 +39,7 @@ The top five vulnerabilities are as follows:
 
 ### Solution: Upgrade to PHP version 5.4.38 or later.  
 
-
+&ensp;
 
 ### Vulnerability: 58987 - PHP Unsupported Version Detection  
 
@@ -47,7 +47,7 @@ The top five vulnerabilities are as follows:
 
 ### Solution: Upgrade to a version of PHP that is currently supported.  
 
-
+&ensp;
 
 ### Vulnerability: 84215 - ProFTPD mod_copy Information Disclosure  
 
