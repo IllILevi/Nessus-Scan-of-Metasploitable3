@@ -31,7 +31,7 @@ The top five vulnerabilities are as follows:
 
 ### Solution: Upgrade the Coder module to version 7.x-1.3 / 7.x-2.6 or later. Alternatively, remove the entire Coder module directory from any publicly accessible website.    
 
-
+&ensp;
 
 ### Vulnerability: 81510 - PHP 5.4.x < 5.4.38 Multiple Vulnerabilities (GHOST)  
 
