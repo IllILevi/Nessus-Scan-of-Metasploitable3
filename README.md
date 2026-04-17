@@ -10,12 +10,14 @@ I first started with two virtual machines (VM), the attacker machine, using Kali
 For Nessus, I did a basic network scan that scanned all ports for all web vulnerabilities and left everything else as default. 
 
 ## Findings Summary
-From the Nessus scan, there were many detected vulnerabilities, including 12 critical ones, as can be seen in the screenshot below.  
+From the Nessus scan, there were many detected vulnerabilities, including 12 critical ones. Clicking on any listed vulnerability will show more detailed information on the vulnerability, including a description, solution, and references, as can be seen in the screenshots below.
 
-<img width="1918" height="773" alt="Image" src="https://github.com/user-attachments/assets/b4bac1c8-0c5f-4c38-a128-032522a3cb82" />
+<img width="1918" height="773" alt="Image" src="https://github.com/user-attachments/assets/b4bac1c8-0c5f-4c38-a128-032522a3cb82" />  
+
+<img width="1918" height="774" alt="Image" src="https://github.com/user-attachments/assets/b03e242c-53b6-42e7-82e1-45adc5207f54" />
 
 
-The top five vulnerabilities are as follows:  
+The top five vulnerabilities based on the CVSS for the vulnerable network Metasploitable3 are as follows:  
 
 
 * **Vulnerability:** 201408 - Canonical Ubuntu Linux SEoL (14.04.x)  
